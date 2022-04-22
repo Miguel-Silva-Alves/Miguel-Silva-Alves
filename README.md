@@ -15,14 +15,16 @@
 
 ----
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Miguel-Silva-Alves&show_icons=true&theme=radical" height="110em" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Silva-Alves&layout=compact" height="110em" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Miguel-Silva-Alves&show_icons=true&theme=radical" height="200em" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Silva-Alves&layout=compact" height="200em" align="center" />
 </div>
 
 ----
 ## Contato
+<a href="https://www.linkedin.com/in/miguel-alves-746690225">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" aligned="center" height="80" width="80"  />
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" aligned="center" height="50" width="60"  />
           
 
 ----
