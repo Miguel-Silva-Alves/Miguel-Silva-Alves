@@ -5,7 +5,7 @@
 ----
 ## Formação
 
-- 🎓 Tecnólogo em Informática para Internet pelo IFSP
+- 🎓 Técnico em Informática para Internet pelo IFSP
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSP
 - ✌ Iniciação Ciêntífica em Redes Complexas
 - ✌ Iniciação Ciêntífica em Robótica pela USP
