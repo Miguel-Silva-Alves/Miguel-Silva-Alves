@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Me chamo Miguel
-#### Sou um desenvolvedor Back-end
+#### Sou um desenvolvedor Back-end, Mobile e até Front-end (acredite se quiser), sou também P.O de uma Startup de São Carlos, sou Dev Pleno a 2 anos e também criador/executor das minhas próprias ideias 🎉
 
 ----
 ## Formação
